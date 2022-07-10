@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/disney_api_hosting/static/css/main.073c9b0a.css",
+    "main.js": "/disney_api_hosting/static/js/main.eaf717d5.js",
+    "static/js/787.943baba6.chunk.js": "/disney_api_hosting/static/js/787.943baba6.chunk.js",
+    "static/media/logo.svg": "/disney_api_hosting/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/disney_api_hosting/index.html",
+    "main.073c9b0a.css.map": "/disney_api_hosting/static/css/main.073c9b0a.css.map",
+    "main.eaf717d5.js.map": "/disney_api_hosting/static/js/main.eaf717d5.js.map",
+    "787.943baba6.chunk.js.map": "/disney_api_hosting/static/js/787.943baba6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eaf717d5.js"
+  ]
+}
